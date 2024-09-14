@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionadece.github.io/sitemap.html.gz
+Sitemap: https://ionadece.github.io/app/sitemap.html.gz
+Sitemap: https://ionadece.github.io/assets/sitemap.html.gz
+Sitemap: https://ionadece.github.io/css/sitemap.html.gz
+Sitemap: https://ionadece.github.io/includes/sitemap.html.gz
+Sitemap: https://ionadece.github.io/item/sitemap.html.gz
+Sitemap: https://ionadece.github.io/src/sitemap.html.gz
